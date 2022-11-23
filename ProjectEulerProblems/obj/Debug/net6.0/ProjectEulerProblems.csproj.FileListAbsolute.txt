@@ -1,0 +1,15 @@
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\bin\Debug\net6.0\ProjectEulerProblems.exe
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\bin\Debug\net6.0\ProjectEulerProblems.deps.json
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\bin\Debug\net6.0\ProjectEulerProblems.runtimeconfig.json
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\bin\Debug\net6.0\ProjectEulerProblems.dll
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\bin\Debug\net6.0\ProjectEulerProblems.pdb
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\obj\Debug\net6.0\ProjectEulerProblems.csproj.AssemblyReference.cache
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\obj\Debug\net6.0\ProjectEulerProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\obj\Debug\net6.0\ProjectEulerProblems.AssemblyInfoInputs.cache
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\obj\Debug\net6.0\ProjectEulerProblems.AssemblyInfo.cs
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\obj\Debug\net6.0\ProjectEulerProblems.csproj.CoreCompileInputs.cache
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\obj\Debug\net6.0\ProjectEulerProblems.dll
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\obj\Debug\net6.0\refint\ProjectEulerProblems.dll
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\obj\Debug\net6.0\ProjectEulerProblems.pdb
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\obj\Debug\net6.0\ProjectEulerProblems.genruntimeconfig.cache
+C:\Users\jakei\source\repos\ProjectEulerProblems\ProjectEulerProblems\obj\Debug\net6.0\ref\ProjectEulerProblems.dll
