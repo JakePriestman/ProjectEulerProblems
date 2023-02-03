@@ -17,10 +17,10 @@ namespace ProjectEulerProblems
             for (int i = 3; i < 2540160; i++) //1! & 2! are trivial and not technically sums. 2540160 comes from the fact that 7 * 9! = 2540160 and 8*9! is also 7 digits long.
             {
                 string numberString = Convert.ToString(i);
-                int numFactorial = 0;
+                System.Numerics.BigInteger numFactorial = 0;
                 for (int j = 0; j < numberString.Length; j++)
                 {
-                    numFactorial += Convert.ToInt32(Problem20.Factorial(numberString[j] - '0')); //Sums the factorials of the digits.
+                    numFactorial += Problem20.Factorial(numberString[j] - '0'); //Sums the factorials of the digits.
                 }
                 if (numFactorial == i) //Checks to see is the number is of the form.
                 {

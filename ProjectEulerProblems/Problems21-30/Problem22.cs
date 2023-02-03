@@ -15,7 +15,7 @@ namespace ProjectEulerProblems
         {
             int sum = 0;
             string[] namesList = {};
-            var lines = File.ReadAllLines(@"C:\Users\jakei\source\repos\ProjectEulerProblems\names.txt");
+            var lines = File.ReadAllLines(@"../../../../names.txt");
 
             for(int i=0; i < lines.Length; i++) //Sorts text file into array.
             {

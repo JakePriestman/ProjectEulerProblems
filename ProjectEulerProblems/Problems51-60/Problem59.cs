@@ -7,7 +7,7 @@ namespace ProjectEulerProblems
         public static void XORDecryption()
         {
             int[] asciiList = {};
-            var lines = File.ReadAllLines(@"C:\Users\jakei\source\repos\ProjectEulerProblems\cipher.txt");
+            var lines = File.ReadAllLines(@"../../../../cipher.txt");
 
             for (int i = 0; i < lines.Length; i++) //Sorts text file into array.
             {

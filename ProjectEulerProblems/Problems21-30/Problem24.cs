@@ -19,7 +19,7 @@ namespace ProjectEulerProblems
 
             permutations.Sort();
 
-            //Console.WriteLine(permutations[999999]);
+            Console.WriteLine(permutations[999999]);
             Console.WriteLine(permutations.Count());
 
         }

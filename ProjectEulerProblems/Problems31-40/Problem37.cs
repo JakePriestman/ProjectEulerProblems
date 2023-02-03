@@ -26,7 +26,7 @@ namespace ProjectEulerProblems
                 Console.WriteLine(truncatablePrimes[i]);
             }
 
-            Console.WriteLine(truncatablePrimes.Count());
+            Console.WriteLine(truncatablePrimes.Sum());
             
 
         }

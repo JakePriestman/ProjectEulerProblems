@@ -13,7 +13,7 @@ namespace ProjectEulerProblems
         public static void CodedTriangleNumbers()
         {
             string[] wordsList = { };
-            var lines = File.ReadAllLines(@"C:\Users\jakei\source\repos\ProjectEulerProblems\words.txt");
+            var lines = File.ReadAllLines(@"../../../../words.txt");
 
             List<string> trianglewords = new List<string>();
             List<int> triangleNumbers = TriangleNumberList(10000); 

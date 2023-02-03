@@ -40,7 +40,7 @@ namespace ProjectEulerProblems
                 }
             }
 
-            Console.WriteLine(sequenceLength);
+            Console.WriteLine(sequenceLength+1);
 
         }
     }

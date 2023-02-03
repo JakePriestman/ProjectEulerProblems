@@ -13,7 +13,7 @@ namespace ProjectEulerProblems
     {
         public void MaximumPathSum2()
         {
-            var lines = File.ReadAllLines(@"C:\Users\jakei\source\repos\ProjectEulerProblems\p067_triangle.txt"); //Reads the file.
+            var lines = File.ReadAllLines(@"../../../../p067_triangle.txt"); //Reads the file.
             int[][] triangle = new int[100][]; //Intialise the rows.
 
 

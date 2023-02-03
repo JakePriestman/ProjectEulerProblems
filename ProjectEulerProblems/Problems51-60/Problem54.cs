@@ -7,7 +7,7 @@ namespace ProjectEulerProblems
         public static void PokerHands()
         {
             string[][] pokerHandsList = new string[1000][];
-            var lines = File.ReadAllLines(@"C:\Users\jakei\source\repos\ProjectEulerProblems\poker.txt");
+            var lines = File.ReadAllLines(@"../../../../poker.txt");
 
             string[][] player1Hands = new string[1000][];
             string[][] player2Hands = new string[1000][];

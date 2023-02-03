@@ -1,3 +1,5 @@
+using System.Linq;
+
 namespace ProjectEulerProblems
 {
     class Problem61
@@ -21,7 +23,11 @@ namespace ProjectEulerProblems
             {
                 Console.Write(solution[i]+ ", ");
             }
-        }
+
+            Console.WriteLine("\n");
+            Console.WriteLine(solution.Sum());
+
+		}
         public static bool FindNext(int last, int length, int[] solution, int[][] numbersLists) 
         {
             for (int i = 0; i < solution.Length; i++) 
@@ -76,7 +82,7 @@ namespace ProjectEulerProblems
                     number = n*(3*n-1) / 2;
                     break;
                     case 3:
-                    number = n*(2*n-1) / 2;
+                    number = n*(2*n-1);
                     break;
                     case 4:
                     number = n*(5*n-3) / 2;

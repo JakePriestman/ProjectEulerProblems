@@ -3,8 +3,7 @@ using System.Linq;
 using System.Text;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-
-
+using ProjectEulerProblems.Problems61_70;
 
 namespace ProjectEulerProblems
 {
@@ -15,12 +14,11 @@ namespace ProjectEulerProblems
             var watch = System.Diagnostics.Stopwatch.StartNew();
 
             
-            new Problem67().MaximumPathSum2();
 
-            
 
-            watch.Stop();
+			watch.Stop();
             Console.WriteLine( "\n" + watch.ElapsedMilliseconds + " Ms");
         }
     }
 }
+ 
