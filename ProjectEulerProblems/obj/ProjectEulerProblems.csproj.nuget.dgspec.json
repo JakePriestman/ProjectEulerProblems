@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JakePriestman\\Source\\Repos\\ProjectEulerProblems\\ProjectEulerProblems\\ProjectEulerProblems.csproj": {}
+    "C:\\Users\\JakePriestman\\source\\repos\\ProjectEulerProblems\\ProjectEulerProblems\\ProjectEulerProblems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JakePriestman\\Source\\Repos\\ProjectEulerProblems\\ProjectEulerProblems\\ProjectEulerProblems.csproj": {
+    "C:\\Users\\JakePriestman\\source\\repos\\ProjectEulerProblems\\ProjectEulerProblems\\ProjectEulerProblems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JakePriestman\\Source\\Repos\\ProjectEulerProblems\\ProjectEulerProblems\\ProjectEulerProblems.csproj",
+        "projectUniqueName": "C:\\Users\\JakePriestman\\source\\repos\\ProjectEulerProblems\\ProjectEulerProblems\\ProjectEulerProblems.csproj",
         "projectName": "ProjectEulerProblems",
-        "projectPath": "C:\\Users\\JakePriestman\\Source\\Repos\\ProjectEulerProblems\\ProjectEulerProblems\\ProjectEulerProblems.csproj",
+        "projectPath": "C:\\Users\\JakePriestman\\source\\repos\\ProjectEulerProblems\\ProjectEulerProblems\\ProjectEulerProblems.csproj",
         "packagesPath": "C:\\Users\\JakePriestman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JakePriestman\\Source\\Repos\\ProjectEulerProblems\\ProjectEulerProblems\\obj\\",
+        "outputPath": "C:\\Users\\JakePriestman\\source\\repos\\ProjectEulerProblems\\ProjectEulerProblems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JakePriestman\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,7 +13,7 @@ namespace ProjectEulerProblems
         {
             var watch = System.Diagnostics.Stopwatch.StartNew();
 
-            
+            new Problem69().TotientMaximum(1000000);
 
 
 			watch.Stop();
