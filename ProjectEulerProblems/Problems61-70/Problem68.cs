@@ -30,7 +30,7 @@ namespace ProjectEulerProblems.Problems61_70
 					solutionSets.Add(solution);
 
 					solutionStrings.Add(solution[0] + solution[1] + solution[2] + solution[3] + solution[4]);
-					Console.WriteLine(total + ": " + solution[0] + "; " + solution[1] + "; " + solution[2] + "; " + solution[3] + "; " + solution[4]);
+					Console.WriteLine(total + ": " + solution.Aggregate((a,b) => a + "\t " + b));
 				}
 			}
 			Console.WriteLine(solutionStrings.Max());

@@ -4,6 +4,7 @@ using System.Text;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using ProjectEulerProblems.Problems61_70;
+using System.Collections;
 
 namespace ProjectEulerProblems
 {
@@ -13,12 +14,14 @@ namespace ProjectEulerProblems
         {
             var watch = System.Diagnostics.Stopwatch.StartNew();
 
-            new Problem69().TotientMaximum(1000000);
+            
 
 
 			watch.Stop();
             Console.WriteLine( "\n" + watch.ElapsedMilliseconds + " Ms");
         }
-    }
+
+
+	}
 }
  
