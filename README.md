@@ -5,7 +5,7 @@ These are my solutions to the [Project Euler Problems](https://projecteuler.net/
 Clone in Visual Studio and navigate to the class of the problem to be solved and run the method in Program.cs
 
 ## Example
-Here is Problem 54 (the pokar.txt that is named here is found within the code):
+Here is Problem 54 (the poker.txt that is named here is found within the code):
 
 ![image](https://github.com/JakePriestman/ProjectEulerProblems/assets/84022353/f8a7041f-3338-43f7-9318-95b5b883a60f)
 
